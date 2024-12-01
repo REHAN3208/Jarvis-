@@ -1,0 +1,5 @@
+just run this following commands one by one
+
+pip install streamlit
+pip install google-generative-ai
+pip install requests
